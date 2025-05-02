@@ -31,3 +31,8 @@ Raw: https://raw.githubusercontent.com/valornode/dns/refs/heads/main/sus.txt
 This blocks domains tied to tracking and telemtery.
 
 Raw: https://raw.githubusercontent.com/valornode/dns/refs/heads/main/tracking.txt
+
+
+## Import to PiHole/AdGuard
+```https://raw.githubusercontent.com/valornode/dns/refs/heads/main/adult-content.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/malicious.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/new-domains.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/sus.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/tracking.txt
+```
