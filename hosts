@@ -1,15 +1,5 @@
 # Title: ValorNode/DNS
 #
-# This hosts file is a merged collection of hosts from reputable sources,
-# 
-#
-# Date: 01 May 2025 00:38:38 (UTC)
-# Number of unique domains: 162,077
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
 # ===============================================================
 
 127.0.0.1 localhost
@@ -26,3 +16,11 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
+# ===============================================================
+
+10.10.10.100 105pine.local
+10.10.10.110 dns1.105pine.local
+10.10.10.110 dns2.105pine.local
+10.10.10.10 prox.iambrayden.net
+10.10.10.10 prox.105pine.local
