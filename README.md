@@ -37,5 +37,5 @@ Raw: https://raw.githubusercontent.com/valornode/dns/refs/heads/main/tracking.tx
 
 Copy this comma list to directly import into PiHole or AdGuard.
 
-https://raw.githubusercontent.com/valornode/dns/refs/heads/main/adult-content.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/malicious.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/new-domains.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/sus.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/tracking.txt
+https://raw.githubusercontent.com/valornode/dns/refs/heads/main/all-blocklist.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/adult-content.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/malicious.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/new-domains.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/sus.txt, https://raw.githubusercontent.com/valornode/dns/refs/heads/main/tracking.txt
 
